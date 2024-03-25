@@ -1,0 +1,22 @@
+﻿
+ @if(TempData["success"] != null) // to show any msssge when job is done
+{
+  @* <script src="~lib/jquery/dist/jquery.min.js"></script>
+    <script src="toastr.js"></script>
+	<link href="/example-path-to/toastr.css" rel="stylesheet" />
+   <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+   <script type= "text/javascript">
+	  
+	   toastr.success('lol');
+   </script>*@
+    <h2>@TempData["success"]</h2>
+}
+@if(TempData["error"] != null) // to show any msssge when job is done
+{
+  @* <script src="~lib/jquery/dist/jquery.min.js"></script>
+   <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+   <script type= "text/javascript">
+	   toastr.error('@TempData["error"]');
+   </script>*@
+ <h2>@TempData["Error"]</h2>
+}

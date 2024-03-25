@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\course.bundle.scp.css",
+      "PackagePath": "staticwebassets\\course.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\1d50e840-964a-11eb-855b-2f3dfed87faa_mceclip4.png",
+      "PackagePath": "staticwebassets\\Images\\1d50e840-964a-11eb-855b-2f3dfed87faa_mceclip4.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\5924-7-21E-i1.png",
+      "PackagePath": "staticwebassets\\Images\\5924-7-21E-i1.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\5924-7-22E-i1.png",
+      "PackagePath": "staticwebassets\\Images\\5924-7-22E-i1.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\5924-7-23E-i1.png",
+      "PackagePath": "staticwebassets\\Images\\5924-7-23E-i1.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\089048c7-29d3-4811-930a-9db039d27d4a.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\089048c7-29d3-4811-930a-9db039d27d4a.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\0d1cb52f-e193-4ccf-966f-0d05d9ddd14e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\0d1cb52f-e193-4ccf-966f-0d05d9ddd14e.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\0d6f43f3-5731-4716-90fc-3a7f3be8e3e8.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\0d6f43f3-5731-4716-90fc-3a7f3be8e3e8.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\204ecba7-72c3-4a23-bb20-aa584fb85ce9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\204ecba7-72c3-4a23-bb20-aa584fb85ce9.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\463bf4f7-f76d-470f-9800-cd9bb739d350.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\463bf4f7-f76d-470f-9800-cd9bb739d350.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\4db8e6cb-4d78-4ea7-8ffc-ce5d907f247e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4db8e6cb-4d78-4ea7-8ffc-ce5d907f247e.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\54262a94-a083-4210-af5a-9e9c1513b6e3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\54262a94-a083-4210-af5a-9e9c1513b6e3.jpeg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\6a3375ab-534e-47dc-acc5-41de3d01b50f.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\6a3375ab-534e-47dc-acc5-41de3d01b50f.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\6dd5c487-0bf3-4f3f-a50a-ba9e56d02463.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6dd5c487-0bf3-4f3f-a50a-ba9e56d02463.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\71073956-c4f2-46a7-897c-e757d74b91af.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\71073956-c4f2-46a7-897c-e757d74b91af.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\947f7c5f-81b6-40e6-90fd-aea846b1c619.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\947f7c5f-81b6-40e6-90fd-aea846b1c619.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\a64ddbb2-b683-4f11-93da-7c08729142f2.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\a64ddbb2-b683-4f11-93da-7c08729142f2.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\ae09d0b8-c7d8-438e-b01a-86f55d31ccfd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ae09d0b8-c7d8-438e-b01a-86f55d31ccfd.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\b3fc7c94-9577-4939-9028-b723d6d5382e.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\b3fc7c94-9577-4939-9028-b723d6d5382e.png"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\c51952bf-c448-413a-b43c-f886841f0e40.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c51952bf-c448-413a-b43c-f886841f0e40.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\c796bf32-1835-4289-a730-2090977b4bbc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c796bf32-1835-4289-a730-2090977b4bbc.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\e394880d-a97b-422e-b573-fe3f5d302454.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e394880d-a97b-422e-b573-fe3f5d302454.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\e514f601-56af-4fec-be93-5cb0a97acc3e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e514f601-56af-4fec-be93-5cb0a97acc3e.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\Products\\e9b73c96-a3ef-4224-9a91-61c42baaa390.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e9b73c96-a3ef-4224-9a91-61c42baaa390.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\Images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\Images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\css\\Bookshop.css",
+      "PackagePath": "staticwebassets\\css\\Bookshop.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\css\\TableTheme.css",
+      "PackagePath": "staticwebassets\\css\\TableTheme.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\css\\dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\css\\toastr.css",
+      "PackagePath": "staticwebassets\\css\\toastr.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\filesprogram'\\prpject\\course\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.course.props",
+      "PackagePath": "build\\course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.course.props",
+      "PackagePath": "buildMultiTargeting\\course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.course.props",
+      "PackagePath": "buildTransitive\\course.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.course.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

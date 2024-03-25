@@ -1,0 +1,83 @@
+﻿@model ComphanyPep
+
+<form method="post" asp-action="Upsert" enctype="multipart/form-data"> @*enctype to to uplaod data or picture insside code*@
+	<input asp-for="Id" hidden />
+		<div class = "row">
+			<div class="col-10">
+				<div class="row p-3 mt-4 row">
+		 <div class="col-12 pb-2">
+
+			 <h2 class ="text-primary">@(Model.Id !=0?"Update":"Create")  ComPhany</h2>
+			 <hr />
+		 </div>
+		@* <div asp-validation-summary="All"></div>*@ @*to show all the error in one place*@
+		 <div class="mb-3">
+			 <label asp-for="Name"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="Name" class="form-control" /> @*// it is for textBox*@
+			 <span asp-validation-for="Name"class="text-danger"> @*is textbox is empty it will give erro msg*@
+
+			 </span>
+		</div>
+		 <div class="mb-3">
+			 <label asp-for="PhoneNumber"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="PhoneNumber" class="form-control" /> @*// it is for textBox*@
+			 <span asp-validation-for="PhoneNumber"class="text-danger"> @*is textbox is empty it will give erro msg*@
+
+			 </span>
+		</div>
+		 <div class="mb-3">
+			 <label asp-for="StreetAddress"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="StreetAddress" class="form-control" /> @*// it is for textBox*@
+			 <span asp-validation-for="StreetAddress"class="text-danger"> @*is textbox is empty it will give erro msg*@
+
+			 </span>
+		</div>
+		 <div class="mb-3">
+			 <label asp-for="City"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="City" class="form-control" /> @*// it is for textBox*@
+			 <span asp-validation-for="City"class="text-danger"> @*is textbox is empty it will give erro msg*@
+
+			 </span>
+		</div>
+		 <div class="mb-3">
+			 <label asp-for="PostalCode"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="PostalCode" class="form-control" /> @*// it is for textBox*@
+			 <span asp-validation-for="PostalCode"class="text-danger"> @*is textbox is empty it will give erro msg*@
+
+			 </span>
+		</div>
+		   <div class = "col-12" style = "margin-left:0px;">
+			   @if(Model.Id != 0)
+			{
+				<button tpye="submit" class="btn btn-primary" style="margin-left:14px; width:150px">Update</button>
+			}
+			else
+			{
+				 <button tpye="submit"class="btn btn-primary" style="margin-left:14px; width:150px">Create</button>
+			}
+
+		 <a asp-controller="Comphanys"asp-action="Index" class="btn btn-secondary"style="margin-left:20px; width:150px"> @*//Bacl button*@
+	          Back To List
+		 </a>
+		 </div>
+	 </div>
+			</div>
+			<div class="col-2" style="color:red;">
+			            	
+				@*<img src =""
+				width="340" height="400" style="border-radius:5px;border:2px solid #bbb9b9" />
+			@*	<div style="color:white;width:800px;height:50px">
+					@Model.ImageUrl
+				</div>*@
+			</div>
+		</div>
+
+</form>
+@section Scripts{ @*// no to refresh when we dont do anything just click the button*@
+ @{
+	<partial name="_ValidationScriptsPartial" />
+  }
+ 
+}
+
+

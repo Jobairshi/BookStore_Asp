@@ -1,0 +1,37 @@
+﻿@model courseModels.Category
+
+<form method="post" asp-action="Delete">
+	<input asp-for = "Id" hidden /> @*to take input from box when it is disabled*@
+	 <div class="row p-3 mt-4">
+
+		 <div class="row pb-2">
+
+			 <h2 class ="text-primary">Delete Category</h2>
+			 <hr />
+		 </div>
+		 <div asp-validation-summary="All"></div> @*to show all the error in one place*@
+		 <div class="mb-3">
+			 <label asp-for="Name"></label> @* //here asp-for is used to acces the db table in here*@ 
+			 <input asp-for="Name" disabled class="form-control" /> @*// it is for textBox*@
+			 
+		 </div>
+		  <div class="mb-3">
+			  <label asp-for="DisplayOrder"></label> @* //here asp-for is used to acces the db table in here*@ 
+			  <input asp-for="DisplayOrder"disabled class="form-control"/> @*// it is for textBox*@
+			   <span asp-validation-for="DisplayOrder"class="text-danger">
+
+			 </span>
+		 </div>
+		 <button tpye="submit" class="btn btn-danger" style="margin-left:14px; width:150px">Delete</button>
+		 <a asp-controller="Category" asp-action="Index" class="btn btn-secondary"style="margin-left:20px; width:150px"> @*//Bacl button*@
+	          Back To List
+		 </a>
+	 </div>
+</form>
+@section Scripts{ @*// no to refresh when we dont do anything just click the button*@
+ @{
+	<partial name="_ValidationScriptsPartial" />
+  }
+}
+
+

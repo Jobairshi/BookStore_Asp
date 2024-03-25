@@ -1,0 +1,81 @@
+﻿@model IEnumerable<ComphanyPep> //passing obj of ienurmble;
+@{
+    ViewData["Title"] = "Index";
+}
+<div class = "container p-3">
+
+    <div class = "row pt-4">
+          <div class= "col-6 text-end" >
+              <h2 class = "text-primary" > Comphany List</h2>
+          </div>
+          <div  class= "col-6 text-end">
+              <a asp-controller="Comphanys"asp-action="Upsert" class="btn btn-primary">
+
+                 <i class="bi bi-plus-circle"></i> Add New Employee @*//for icon <i and link from botstrap*@
+
+              </a>
+          </div>
+    </div>
+
+</div>
+<br /><br />
+<h1>Comphany Category</h1>
+<table class ="table table-bordered table-striped" style = "width:100%" >
+    <thead></thead>
+    <tr>
+        <th>
+
+            Name
+        </th>
+        <th>
+            Address
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            State
+        </th>
+        <th>
+            Phone Number
+        </th>
+         <th>
+        
+        </th>
+    </tr>
+    <tbody>
+        @foreach(var obj in Model) //use @ to use c# inside the html
+        {
+            <tr>
+
+                <td width = "50%">
+                    @obj.Name
+                </td>
+               
+                <td width = "30%">
+                     @obj.Name
+                </td>
+                 <td width = "30%">
+                     @obj.Name
+                </td>
+                 <td width = "30%">
+                    @obj.Name
+                </td>
+                <td>
+                    <div class="w-75 btn-group"role = "group">
+                        <a asp-controller = "Comphanys" asp-action = "Upsert" asp-route-id = "@obj.Id" class="btn btn-primary mx-2"> @*asp-route to pass varible in fucntiion*@
+                           <i class="bi bi-pencil-square"></i>  Edit </a>
+                      
+                      @using(Html.BeginForm("Delete","Comphanys",new {id = obj.Id}))
+                        {
+                            <input style="color:white;background-color:palevioletred; height:72px;width:78px"; type= "submit" value = "Delete"
+                            onclick="return confirm('Are YOu sure You  want to Delete ID @obj.Id')"/>
+                        }
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
